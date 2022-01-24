@@ -1,8 +1,8 @@
 {
-    "name": "darkwolf",
+    "name": "Raspi Server Black",
     "version": "5.0.1",
-    "description": "darkwolf, A Dark Theme for phpMyAdmin",
-    "author": "SteppenWolf68",
-    "url": "https://github.com/SteppenWolf68",
+    "description": "Raspi Server, A Dark Theme for phpMyAdmin",
+    "author": "Umar",
+    "url": "https://github.com/mr-umar",
     "supports": ["5.0"]
 }
